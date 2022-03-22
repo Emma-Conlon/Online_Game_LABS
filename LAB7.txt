@@ -1,0 +1,40 @@
+LAB 7 TCP PART 2 :)
+
+QUESTION 1 
+TRUE 
+QUESTION 2 
+FALSE
+QUESTION 3
+TRUE 
+QUESTION 4 
+FALSE 
+QUESTION 5
+A)Triple Duplicate Ack
+ 
+QUESTION 6 
+B)No 
+
+QUESTION 7 
+D)Time out
+
+QUESTION 8 
+B)No
+
+QUESTION 9 
+B)Less 
+QUESTION 10 
+This “slow start” period quickly discovers the maximum acceptable throughput that 
+the path supports 
+otherwise, AI (additive increase) could take too long (each a full 
+RTT).
+QUESTION 11 
+
+QUESTION 12 
+C)700
+QUESTION 13 
+C)1200ms
+QUESTION 14 
+B)600ms
+QUESTION 15 
+Changing cross
+traffic by other concurrent senders across same routers.
